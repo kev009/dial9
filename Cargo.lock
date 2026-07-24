@@ -1722,7 +1722,7 @@ dependencies = [
 
 [[package]]
 name = "dial9"
-version = "0.5.0-rc1"
+version = "0.5.0-rc1.1"
 dependencies = [
  "anyhow",
  "aws-config",
@@ -1749,7 +1749,7 @@ dependencies = [
 
 [[package]]
 name = "dial9-core"
-version = "0.5.0-rc0"
+version = "0.5.0-rc0.1"
 dependencies = [
  "assert2",
  "bon",
@@ -1787,7 +1787,7 @@ dependencies = [
 
 [[package]]
 name = "dial9-perf-self-profile"
-version = "0.5.0-rc0"
+version = "0.5.0-rc0.1"
 dependencies = [
  "blazesym",
  "bon",
@@ -1879,7 +1879,7 @@ dependencies = [
 
 [[package]]
 name = "dial9-utils"
-version = "0.5.0-rc0"
+version = "0.5.0-rc0.1"
 dependencies = [
  "assert2",
  "async-trait",
@@ -1902,7 +1902,7 @@ dependencies = [
 
 [[package]]
 name = "dial9-viewer"
-version = "0.5.0-rc1"
+version = "0.5.0-rc1.1"
 dependencies = [
  "anyhow",
  "arrow",
